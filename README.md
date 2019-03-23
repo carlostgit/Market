@@ -1,2 +1,2 @@
 # Market
-Educational market simulation
+Educational market simulation. Primera prueba de concepto.
